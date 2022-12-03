@@ -147,12 +147,3 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 - Intolerância religiosa.
 
 Lembre-se, os posts são abertos, a não ser que se escolha postar apenas para seguidores, e nem todo mundo curte o que você curte. Tenha bom senso e use o aviso de conteúdo em assuntos que você gosta muito mas que pode outras pessoas, como esportes, programas de tv, etc.
-
-### Comportamentos desencorajados
-
-Os comportamentos a seguir são desencorajados. A reincidência, após advertência, também ocasionará em suspensão.
-
-- Flood (postar repetidamente ou pequenas mensagens sem intervalo) nas timelines públicas (local e global/federada).
-- Spam (mensagens indesejadas ou não requisitadas).
-- Enviar Imagens animadas (.gif, .apng, etc.), Vídeos, Emojis, Hashtags em toots que não correspondem ao assunto original.
-- Fazer flood com inteção de "subir hashtag" ou divulgar trabalho seu ou de terceiros. (Você é livre para divulgar seu trabalho, mas se incomodar outras pessoas, será considerado flood)
