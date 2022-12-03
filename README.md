@@ -139,11 +139,5 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 - Retratos de si, principalmente aqueles com contato ocular direto
 - Comida ou citação a comida
 - Eventos recentes com grande cobertura de mídia
-- Comportamentos e discursos preconceituosos como: racismo, sexismo, preconceito direcionado à sexualidade, preconceito contra identidade ou expressão de gênero, capacitismo, xenofobia, islamofobia, antissemitismo, gordofobia.
-- Ameaças de violência ou linguagem violenta direcionada a outras pessoas.
-- Apologia a governos totalitários.
-- Xenofobia e/ou nacionalismo extremista.
-- Desinformação intencional ("fake news").
-- Intolerância religiosa.
 
 Lembre-se, os posts são abertos, a não ser que se escolha postar apenas para seguidores, e nem todo mundo curte o que você curte. Tenha bom senso e use o aviso de conteúdo em assuntos que você gosta muito mas que pode outras pessoas, como esportes, programas de tv, etc.
