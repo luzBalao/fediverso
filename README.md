@@ -45,7 +45,7 @@ Os objetivos serão buscados com ações concretas, dentre as quais:
 
 ## Regras da Liga
 
-Um membro da LILEF é uma instância do Fediverso.
+Um membro da Lilás é uma instância do Fediverso.
 
 Uma instância é um domínio com administradorus e moderadorus. Dois domínios diferentes com o mesmo conjunto de administradorus ou moderadorus são considerados como a mesma instância.
 
