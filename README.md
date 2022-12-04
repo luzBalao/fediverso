@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Somos uma liga de instâncias do Fediverso que compartilham um código de conduta mínimo.
+Somos uma liga de instâncias do Fediverso interessadas em criar espaços acolhedores e inclusivos.
 
 A Lilás busca aproximar as instâncias e facilitar a colaboração entre elas. Toda instância que participa da liga é independente, mas precisa seguir as regras da liga, decididas em comum.
 
