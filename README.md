@@ -15,11 +15,11 @@ Os objetivos da liga são:
 
 ### Para fortalecer a colaboração entre instâncias
 
-- Um grupo de Signal[^1] para comunicação e decisão, compartilhado entre membros.
+- Um grupo de Signal[^1] para comunicação entre membros.
 
 - Um relay[^2] que as instâncias participantes podem, opcionalmente, utilizar. O relay facilita a interação entre as instâncias participantes.
 
-- Um fork do Mastodon que disponibiliza uma timeline especial, da liga, que permite ver os posts das instâncias participantes, no mesmo estilo da timeline local.
+- Um fork do Mastodon que disponibiliza uma timeline especial da liga, que permite ver os posts das instâncias participantes, no mesmo estilo da timeline local.
 
 ### Para manter espaços saudáveis e diversos
 
