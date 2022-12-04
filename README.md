@@ -40,27 +40,27 @@ Os objetivos da liga são:
 [^1]: https://signal.org/
 [^2]: Relay: um software que republica mensagens públicas entre instâncias diferentes. Instâncias que estejam inscritas no mesmo relay enviam seus toots públicos ao relay e recebem de volta todos os toots públicos de outras instâncias do relay.
 
-## Regras da Liga
+## Regras da Lil
 
-Um membro da Lilás é uma instância do Fediverso.
+Um membro da Lilás representa uma instância do Fediverso.
 
-Uma instância é um domínio com administradorus e moderadorus. Dois domínios diferentes com o mesmo conjunto de administradorus ou moderadorus são considerados como a mesma instância.
+Uma instância é um domínio com administradorus, moderadorus e usuáries. Dois domínios diferentes com o mesmo conjunto de administradorus ou moderadorus são considerados a mesma instância.
 
-O quórum mínimo para tomada de decisão é de metade dos membros[^3]
+O quórum para tomada de decisão é a metade dos membros[^3]
 
 Novos membros da liga são aceitos por votação com maioria simples[^4]. Instâncias podem ser indicadas por membros, ou se candidatar de maneira espontânea. Instâncias não aceitas podem se recandidatar após 3 meses. As instâncias rejeitadas serão informadas sobre o motivo que levou à sua não-aceitação.
 
 Mudanças nas regras da liga são feitas por meio de moção entre os membros e devem ser aprovadas por maioria absoluta[^5].
 
-Membros da liga serão removidos se não cumprirem as definições deste documento. O descumprimento deve ser reconhecido pela maioria absoluta[^5] dos demais membros. A remoção de um membro por outros motivos pode ser proposta por qualquer membro da liga, e será efetivada no caso de uma decisão por maioria absoluta de $2/3$. Em ambos os casos, o membro deve ser ouvido antes de se deliberar pela sua remoção.
+Membros da liga serão removidos se não cumprirem este acordo. O descumprimento deve ser reconhecido pela maioria absoluta[^5] dos demais membros. A remoção de um membro por outros motivos pode ser proposta por qualquer membro da liga, e será efetivada no caso de uma decisão por maioria absoluta de $2/3$. Em ambos os casos, o membro deve ser ouvido antes de se deliberar pela sua remoção.
 
 Moderadorus, administradorus e pessoas indicadas por elus podem igualmente participar das discussões, mas cada instância-membro tem direito a um voto. Por isso, para todas as decisões, a instância deve primeiro chegar a um acordo interno antes de colocar sua posição para a liga. Recomenda-se a ampla participação das pessoas da instância nas discussões internas.
 
-Instâncias da liga são aconselhadas a terem menos de 1000 membros, mas devem manter uma proporção de 1 mod/admin para cada 100 membros ativos[^6]. Instâncias da liga **não podem** ter mais que 5000 membros.
+Instâncias da liga são aconselhadas a terem menos de 1000 usuáries, mas devem manter uma proporção de 1 mod/admin para cada 100 usuáries ativos[^6]. Instâncias da liga **não podem** ter mais que 5000 usuáries.
 
-As instâncias da liga devem publicar um código de conduta para usuáries que contenha, no mínimo, as regras do código de conduta mínimo.
+As instâncias da liga devem publicar e aplicar um código de conduta que contenha pelo menos as regras do código de conduta mínimo.
 
-[^3]: Quórum mínimo: pelo menos a metade dos membros deve estar presente para que uma decisão seja tomada, independentemente do caso (maioria simples ou absoluta).
+[^3]: Quórum: pelo menos a metade dos membros deve estar presente para que uma decisão seja tomada, independentemente do caso (maioria simples ou absoluta).
 [^4]: Maioria simples: a maioria dos membros presentes. No caso em que haja 10 instâncias na liga em um dado momento, mas que apenas 6 estejam presentes na reunião, 4 $(6/2 + 1)$ votos são suficientes para aprovação.
 [^5]: Maioria absoluta: a maioria dos membros totais. No caso em que hajam 10 instâncias na liga em um dado momento, são necessários 6 $((10/2) + 1)$ votos para aprovação, independente da quantidade de membros presentes na reunião.
 [^6]: Usuáries atives: a mesma definição da página de entrada do Mastodon. Aceita-se um período de transição de até 2 semanas quando a instância estiver em fase de crescimento onde esse limite pode ser ultrapassado, até que se encontrem novas pessoas para ajudar na moderação. O importante é que mesmo nesse período a instância não esteja "abandonada" em termos de moderação.
