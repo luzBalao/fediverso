@@ -58,7 +58,7 @@ Membros da liga serão removidos se não cumprirem este acordo. O descumprimento
 
 Moderadorus, administradorus e pessoas indicadas por elus podem igualmente participar das discussões, mas cada instância-membro tem direito a um voto. Por isso, para todas as decisões, a instância deve primeiro chegar a um acordo interno antes de colocar sua posição para a liga. Recomenda-se a ampla participação das pessoas da instância nas discussões internas.
 
-Instâncias da liga são aconselhadas a terem menos de 1000 usuáries, mas devem manter uma proporção de 1 mod/admin para cada 100 usuáries ativos[^6]. Instâncias da liga **não podem** ter mais que 5000 usuáries.
+Instâncias da liga são aconselhadas a terem menos de 1000 usuáries, mas devem manter uma proporção de 1 mod/admin para cada 100 usuáries atives[^6]. Instâncias da liga **não podem** ter mais que 5000 usuáries.
 
 As instâncias da liga devem publicar e aplicar um código de conduta que contenha pelo menos as regras do código de conduta mínimo.
 
