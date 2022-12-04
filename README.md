@@ -11,9 +11,9 @@ Os objetivos da liga são:
 2. Manter espaços saudáveis e diversos
 3. Fomentar a criação de novas instâncias
 
-## Dos objetivos à ação
+## Ações
 
-### Ações para fortalecer a colaboração entre instâncias
+### Para fortalecer a colaboração entre instâncias
 
 - Um grupo de Signal[^1] para comunicação e decisão, compartilhado entre membros.
 
@@ -21,7 +21,7 @@ Os objetivos da liga são:
 
 - Um fork do Mastodon que disponibiliza uma timeline especial, da liga, que permite ver os posts das instâncias participantes, no mesmo estilo da timeline local.
 
-### Ações para manter espaços saudáveis e diversos
+### Para manter espaços saudáveis e diversos
 
 - Código de conduta mínimo.
 
@@ -29,7 +29,7 @@ Os objetivos da liga são:
 
 - Membros são incentivados a estabelecer processos internos que dêem voz às pessoas nas decisões que as afetam.
 
-### Ações para fomentar a criação de novas instâncias
+### Para fomentar a criação de novas instâncias
 
 - Disponibilização do código de conduta mínimo para servir como base para novas instâncias.
 
