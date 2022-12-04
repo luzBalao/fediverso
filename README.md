@@ -25,6 +25,8 @@ Os objetivos da liga são:
 
 - Código de conduta mínimo.
 
+- Proporção mínima de admins/mods por usuáries atives.
+
 - Limite de tamanho das instâncias.
 
 - Membros são incentivados a estabelecer processos internos que dêem voz às pessoas nas decisões que as afetam.
