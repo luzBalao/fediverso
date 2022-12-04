@@ -2,13 +2,12 @@
 
 ## Introdução
 
-Somos uma liga de instâncias do Fediverso interessadas em criar espaços acolhedores e inclusivos.
-
-A Lilás busca aproximar as instâncias e facilitar a colaboração entre elas. Toda instância que participa da liga é independente, mas precisa seguir as regras da liga, decididas em comum.
+Somos um grupo de pessoas que cuidam de instâncias acolhedoras no Fediverso.
+A Lilás nos aproxima sobretudo para enriquecer a experiência as pessoas que convivem em nossas instâncias.
 
 Os objetivos da liga são:
 
-1. Fortalecer a colaboração entre instâncias
+1. Fortalecer a colaboração entre as instâncias
 2. Manter espaços saudáveis e diversos
 3. Fomentar a criação de novas instâncias
 
