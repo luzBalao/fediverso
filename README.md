@@ -13,8 +13,6 @@ Os objetivos da liga são:
 
 ## Dos objetivos à ação
 
-Os objetivos serão buscados com ações concretas, dentre as quais:
-
 ### Ações para fortalecer a colaboração entre instâncias
 
 - Um grupo de Signal[^1] para comunicação e decisão, compartilhado entre membros.
