@@ -25,7 +25,7 @@ Os objetivos da liga são:
 
 - Código de conduta mínimo, para garantir o bem-estar das pessoas e o respeito à diversidade.
 
-- Limite de tamanho das instâncias, para prevenir a concentração de poder em um pequeno número de admins.
+- Limite de tamanho das instâncias.
 
 - Membros são incentivados a estabelecer processos internos que dêem voz às pessoas nas decisões que as afetam.
 
