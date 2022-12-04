@@ -3,7 +3,7 @@
 ## Introdução
 
 Somos um grupo de pessoas que cuidam de instâncias acolhedoras no Fediverso.
-A Lilás nos aproxima sobretudo para enriquecer a experiência as pessoas que convivem em nossas instâncias.
+A Lilás nos aproxima sobretudo para enriquecer a experiência das pessoas que convivem em nossas instâncias.
 
 Os objetivos da liga são:
 
