@@ -40,7 +40,7 @@ Os objetivos da liga são:
 [^1]: https://signal.org/
 [^2]: Relay: um software que republica mensagens públicas entre instâncias diferentes. Instâncias que estejam inscritas no mesmo relay enviam seus toots públicos ao relay e recebem de volta todos os toots públicos de outras instâncias do relay.
 
-## Regras da Lil
+## Regras da Lilás
 
 Um membro da Lilás representa uma instância do Fediverso.
 
