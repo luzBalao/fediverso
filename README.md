@@ -124,10 +124,10 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 - Distúrbios mentais
 - Distúrbios alimentares
 - Relacionamentos abusivos
-- Covid-19
-- Menções a discurso de ódio
-- Política eleitoral ou decisões governamentais
 - Personalidades ou movimentos do espectro da extrema-direita
+- Menções a discurso de ódio
+- Política eleitoral
+- Covid-19
 
 **O uso de aviso de conteúdo não é obrigatório, mas incentivado, em postagens envolvendo:**
 
@@ -137,4 +137,4 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 - Comida ou citação a comida
 - Eventos recentes com grande cobertura de mídia
 
-Lembre-se, os posts são abertos, a não ser que se escolha postar apenas para seguidores, e nem todo mundo curte o que você curte. Tenha bom senso e use o aviso de conteúdo em assuntos que você gosta muito mas que pode outras pessoas, como esportes, programas de tv, etc.
+Tenha bom senso e use o aviso de conteúdo em assuntos que podem ser cansativos ou repetitivos naquele momento. Lembre-se que nem todo mundo curte o que você curte, e que as pessoas apreciam a gentileza especialmente em posts públicos. É só um clique pra quem quer ler, mas faz muita diferença para o bem-estar da nossa comunidade.
