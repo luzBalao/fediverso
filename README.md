@@ -23,7 +23,7 @@ Os objetivos da liga são:
 
 ### Ações para manter espaços saudáveis e diversos
 
-- Código de conduta mínimo, para garantir o bem-estar das pessoas e o respeito à diversidade.
+- Código de conduta mínimo.
 
 - Limite de tamanho das instâncias.
 
