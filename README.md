@@ -137,4 +137,4 @@ Os comportamentos a seguir são desencorajados. A reincidência, após advertên
 - Comida ou citação a comida
 - Eventos recentes com grande cobertura de mídia
 
-Tenha bom senso e use o aviso de conteúdo em assuntos que podem ser cansativos ou repetitivos naquele momento. Lembre-se que nem todo mundo curte o que você curte, e que as pessoas apreciam a gentileza especialmente em posts públicos. É só um clique pra quem quer ler, mas faz muita diferença para o bem-estar da nossa comunidade.
+Tenha bom senso e use o aviso de conteúdo em assuntos que podem ser cansativos ou repetitivos naquele momento. Lembre-se que nem todo mundo curte o que você curte, e que as pessoas apreciam a gentileza especialmente em posts públicos. É só um clique para quem quer ler, mas faz muita diferença para o bem-estar das nossas comunidades.
