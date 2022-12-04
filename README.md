@@ -23,19 +23,19 @@ Os objetivos da liga são:
 
 ### Ações para manter espaços saudáveis e diversos
 
-- Seguir o código de conduta mínimo, para garantir o bem-estar das pessoas e o respeito à diversidade.
+- Código de conduta mínimo, para garantir o bem-estar das pessoas e o respeito à diversidade.
 
-- Limite de tamanho das instâncias (ver regras da liga), para prevenir a concentração de poder em um pequeno número de admins.
+- Limite de tamanho das instâncias, para prevenir a concentração de poder em um pequeno número de admins.
 
 - Membros são incentivados a estabelecer processos internos que dêem voz às pessoas nas decisões que as afetam.
 
 ### Ações para fomentar a criação de novas instâncias
 
-- Disponibilizar o código de conduta mínimo para servir como base para novas instâncias.
+- Disponibilização do código de conduta mínimo para servir como base para novas instâncias.
 
 - Um segundo grupo de Signal[^1] para servir como canal de suporte a admins e mods iniciantes interessades em participar da liga.
 
-- Divulgar campanhas de financiamento coletivo para criação de novas instâncias interessadas em participar da liga.
+- Campanhas periódicas, que podem envolver financiamento coletivo, para criação de novas instâncias alinhadas aos princípios da liga.
 
 [^1]: https://signal.org/
 [^2]: Relay: um software que republica mensagens públicas entre instâncias diferentes. Instâncias que estejam inscritas no mesmo relay enviam seus toots públicos ao relay e recebem de volta todos os toots públicos de outras instâncias do relay.
