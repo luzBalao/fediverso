@@ -47,21 +47,21 @@ Um membro da Lilás representa uma instância do Fediverso.
 
 Uma instância é um domínio com administradorus, moderadorus e usuáries. Dois domínios diferentes com o mesmo conjunto de administradorus ou moderadorus são considerados a mesma instância.
 
-O quórum para tomada de decisão é a metade dos membros[^3]
+O quórum para tomada de decisão é a metade dos membros[^4]
 
-Novos membros da liga são aceitos por votação com maioria simples[^4]. Instâncias podem ser indicadas por membros, ou se candidatar de maneira espontânea. Instâncias não aceitas podem se recandidatar após 3 meses. As instâncias rejeitadas serão informadas sobre o motivo que levou à sua não-aceitação.
+Novos membros da liga são aceitos por votação com maioria simples[^5]. Instâncias podem ser indicadas por membros, ou se candidatar de maneira espontânea. Instâncias não aceitas podem se recandidatar após 3 meses. As instâncias rejeitadas serão informadas sobre o motivo que levou à sua não-aceitação.
 
-Mudanças nas regras da liga são feitas por meio de moção entre os membros e devem ser aprovadas por maioria absoluta[^5].
+Mudanças nas regras da liga são feitas por meio de moção entre os membros e devem ser aprovadas por maioria absoluta[^6].
 
-Membros da liga serão removidos se não cumprirem este acordo. O descumprimento deve ser reconhecido pela maioria absoluta[^5] dos demais membros. A remoção de um membro por outros motivos pode ser proposta por qualquer membro da liga, e será efetivada no caso de uma decisão por maioria absoluta de $2/3$. Em ambos os casos, o membro deve ser ouvido antes de se deliberar pela sua remoção.
+Membros da liga serão removidos se não cumprirem este acordo. O descumprimento deve ser reconhecido pela maioria absoluta[^6] dos demais membros. A remoção de um membro por outros motivos pode ser proposta por qualquer membro da liga, e será efetivada no caso de uma decisão por maioria absoluta de $2/3$. Em ambos os casos, o membro deve ser ouvido antes de se deliberar pela sua remoção.
 
 Moderadorus, administradorus e pessoas indicadas por elus podem igualmente participar das discussões, mas cada instância-membro tem direito a um voto. Por isso, para todas as decisões, a instância deve primeiro chegar a um acordo interno antes de colocar sua posição para a liga. Recomenda-se a ampla participação das pessoas da instância nas discussões internas.
 
 As instâncias da liga devem publicar e aplicar um código de conduta que contenha pelo menos as regras do código de conduta mínimo.
 
-[^3]: Quórum: pelo menos a metade dos membros deve estar presente para que uma decisão seja tomada, independentemente do caso (maioria simples ou absoluta).
-[^4]: Maioria simples: a maioria dos membros presentes. No caso em que haja 10 instâncias na liga em um dado momento, mas que apenas 6 estejam presentes na reunião, 4 $(6/2 + 1)$ votos são suficientes para aprovação.
-[^5]: Maioria absoluta: a maioria dos membros totais. No caso em que hajam 10 instâncias na liga em um dado momento, são necessários 6 $((10/2) + 1)$ votos para aprovação, independente da quantidade de membros presentes na reunião.
+[^4]: Quórum: pelo menos a metade dos membros deve estar presente para que uma decisão seja tomada, independentemente do caso (maioria simples ou absoluta).
+[^5]: Maioria simples: a maioria dos membros presentes. No caso em que haja 10 instâncias na liga em um dado momento, mas que apenas 6 estejam presentes na reunião, 4 $(6/2 + 1)$ votos são suficientes para aprovação.
+[^6]: Maioria absoluta: a maioria dos membros totais. No caso em que hajam 10 instâncias na liga em um dado momento, são necessários 6 $((10/2) + 1)$ votos para aprovação, independente da quantidade de membros presentes na reunião.
 
 ## Código de conduta mínimo
 
