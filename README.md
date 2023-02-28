@@ -27,7 +27,7 @@ Os objetivos da liga são:
 
 - Expectativas mínimas de moderação.
 
-- Guia de etiqueta e outros materias para orientar usu.
+- Guia de etiqueta e outros materias para orientar usuáries.
 
 ### Para fomentar a criação de novas instâncias
 
